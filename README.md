@@ -1,2 +1,7 @@
-# bing-dork
-bing-dork
+# Bing Dork Scanner
+
+
+python dork.py 
+
+
+www.murrez.com
